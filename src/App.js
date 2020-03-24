@@ -91,7 +91,7 @@ class App extends Component {
                         sortingTypes.BY_DATE
                       )}
                     </div>
-                    {/* todo: перенести этот JSX в файл components/SortingOptionsPanel/SortingOptionsPanel.js (конец)*/}
+                    {/* todo: перенести этот JSX в файл components/SortingOptionsPanel/SortingOptionsPanel. (конец)*/}
 
                     {/* todo: проверить что импорт и использование SortingOptionsPanel не ламает функционала*/}
                     <SortingOptionsPanel/>
